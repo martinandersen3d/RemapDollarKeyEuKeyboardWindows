@@ -18,4 +18,4 @@ The exe is made with AutoIt. Just download AutoIt, and change the dollarKeyRemap
 
 -------------
 Search tags:
-keyboard, key 4, symbol, character, change key
+keyboard, key 4, symbol, character, change key, php, windows 10, europe keyboard
