@@ -13,6 +13,7 @@ Install:
 
 
 Change remap:
+
 The exe is made with AutoIt. Just download AutoIt, and change the dollarKeyRemap.au3 to whatever you like. Then run the AutoIt program "Compile script to exe" program to create a exe file. Done :)
 
 -------------
