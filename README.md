@@ -1,4 +1,4 @@
-# RemapDollarKeyEuKeyboardWindows
+# Remap Dollar Key Eu Keyboar dWindows
 Move the dollar sign on the keyboard to the key left of 1 key on windows 10 64 bit
 
 ![](
